@@ -1,4 +1,4 @@
-﻿using ProgrammingwithCSharp.Programming;
+﻿using ProgrammingwithCSharp.LanguageFeatures;
 
 namespace DotnetInterviewGuide;
 
@@ -14,5 +14,8 @@ class Program
         Console.WriteLine(x);
         refAndOut.PassByOut(out x);
         Console.WriteLine(x);
+
+        ValueVSRef valueVsRef = new ValueVSRef();
+        valueVsRef.ShowDiffBetweenValueAndRef();
     }
 }

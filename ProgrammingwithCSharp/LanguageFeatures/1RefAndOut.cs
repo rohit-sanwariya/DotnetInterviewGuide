@@ -1,4 +1,4 @@
-﻿namespace ProgrammingwithCSharp.Programming;
+﻿namespace ProgrammingwithCSharp.LanguageFeatures;
 
 public class RefAndOut {
     public void PassByRef(ref int number)
