@@ -1,4 +1,4 @@
-﻿namespace DotnetInterviewGuide.Programming;
+﻿namespace ProgrammingwithCSharp.Programming;
 
 public class RefAndOut {
     public void PassByRef(ref int number)

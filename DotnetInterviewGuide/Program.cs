@@ -1,4 +1,4 @@
-﻿using DotnetInterviewGuide.Programming;
+﻿using ProgrammingwithCSharp.Programming;
 
 namespace DotnetInterviewGuide;
 

@@ -18,4 +18,8 @@
       <Folder Include="Framework\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ProgrammingwithCSharp\ProgrammingwithCSharp.csproj" />
+    </ItemGroup>
+
 </Project>
