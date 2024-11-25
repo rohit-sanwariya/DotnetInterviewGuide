@@ -1,0 +1,6 @@
+﻿services:
+  dotnetinterviewguide:
+    image: dotnetinterviewguide
+    build:
+      context: .
+      dockerfile: DotnetInterviewGuide/Dockerfile
